@@ -8,7 +8,6 @@ const internship = [
     desc: [
       'Developed responsive user interfaces using PHP (CodeIgniter) and Bootstrap based on UI/UX design specifications.',
       'Collaborated with backend teams to integrate features and manage data flow.',
-      'Improved usability and layout consistency across multiple web pages.',
     ],
   },
   {
